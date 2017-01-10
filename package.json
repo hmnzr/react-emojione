@@ -1,7 +1,7 @@
 {
-  "name": "react-emojione",
+  "name": "react-emojione3",
   "version": "2.0.0",
-  "description": "A tiny ES6 library to use emojis in React",
+  "description": "A tiny ES6 library to use emojis in React. Emojis without tooltip, sorry",
   "main": "lib/react-emojione.js",
   "dependencies": {},
   "peerDependencies": {
